@@ -63,5 +63,4 @@ This project analyzes whether large language models exhibit racial bias in hirin
 
 - Python 3.8+
 - Groq API key
-- Jupyter Notebook (for analysis)</content>
-<parameter name="filePath">c:\Users\josep\Documents\ethics\LLM-Bias-In-Hiring\README.md
+- Jupyter Notebook (for analysis)
